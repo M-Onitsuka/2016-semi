@@ -3,6 +3,7 @@
 ```
 cd build
 cmake ..
+make
 ```
 
 # How to execute
